@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Sai Krupa
+🎓 Master's Student in Public Health
 
-<!--
-**gavinikrupa/gavinikrupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Areas of Interest
+- Epidemiology
+- Biostatistics
+- Public Health Research
+- Data Analysis
+- Health Informatics
 
-Here are some ideas to get you started:
+2. Skills
+- R Programming
+- Microsoft Excel
+- Statistical Analysis
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. Currently Learning
+- R Programming
+- Public Health Analytics
+- Research Methods
+- Data Visualization
+
+4. Certifications
+- Introduction to R (DataCamp)
+- Microsoft Excel for Data Analysis
+
+6. Career Goal
+- To build a career in Public Health Analytics and Research by applying epidemiological methods, biostatistics, and data analysis to support healthcare decision-making and improve population health.
+  
+7. Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sai-krupa-gavini-97b880255
